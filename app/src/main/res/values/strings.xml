@@ -1,3 +1,12 @@
 <resources>
     <string name="app_name">Lesson1</string>
+    <string name="testText">Тестовый текст</string>
+    <string name="ok">OK</string>
+    <string name="text">text</string>
+    <string name="textPersonName">textPersonName</string>
+    <string name="phone">phone</string>
+    <string name="number">number</string>
+    <string name="textPassword">textPassword</string>
+    <string name="textEmailAddress">textEmailAddress</string>
+    <string name="dateTime">datetime</string>
 </resources>
